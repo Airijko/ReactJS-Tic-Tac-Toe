@@ -1,3 +1,4 @@
 # ReactJS-Tic-Tac-Toe
 Following a Tic-Tac-Toe tutorial
-Test Git commit
+
+Tutorial link: https://react.dev/learn/tutorial-tic-tac-toe
