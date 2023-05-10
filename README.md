@@ -1,3 +1,3 @@
 # ReactJS-Tic-Tac-Toe
 Following a Tic-Tac-Toe tutorial
-Test Git commits
+Test Git commit
